@@ -77,7 +77,7 @@ We welcome contributors of all levels! Here's how you can help:
 <table>
   <tr>
      <td>
-       <p align="center"> <img src="https://e7.pngegg.com/pngimages/597/567/png-clipart-massachusetts-institute-of-technology-mit-license-technical-school-logo-university-massachusetts-angle-text.png" width="80%"></img>
+       <p align="center"> <img src="https://e7.pngegg.com/pngimages/597/567/png-clipart-massachusetts-institute-of-technology-mit-license-technical-school-logo-university-massachusetts-angle-text.png" width="40%"></img>
     </td>
     <td> 
       <img src="https://img.shields.io/badge/License-MIT-yellow.svg"/> <br> 
