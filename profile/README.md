@@ -77,7 +77,7 @@ We welcome contributors of all levels! Here's how you can help:
 <table>
   <tr>
      <td>
-       <p> <img src="https://e7.pngegg.com/pngimages/597/567/png-clipart-massachusetts-institute-of-technology-mit-license-technical-school-logo-university-massachusetts-angle-text.png"></img>
+       <p> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/MIT_logo.svg"></img>
     </td>
     <td> 
       <img src="https://img.shields.io/badge/License-MIT-yellow.svg"/> <br> SheBright is licensed under the terms of the MIT License. check out <a href="./LICENSE">LICENSE</a> for details. <img width=2300/>
