@@ -15,7 +15,7 @@ We welcome contributors of all levels! Here's how you can help:
 - ⭐ **Support Us**: If you like what we do, give our repositories a star!
 
   <div align="center">
-<h1 align="center">Supported By <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" /></h1>
+## Supported By
 <table>
   <tr>
     <td align="center">
