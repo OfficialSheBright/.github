@@ -73,11 +73,11 @@ We welcome contributors of all levels! Here's how you can help:
   </tr>
 </table>
 
-## License 📝
+## License
 <table>
   <tr>
      <td>
-       <p align="center"> <img src="https://private-user-images.githubusercontent.com/100375390/338748309-880c1c91-8d87-4349-afc4-b69b2d8daea1.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzkyMzQ1MTksIm5iZiI6MTczOTIzNDIxOSwicGF0aCI6Ii8xMDAzNzUzOTAvMzM4NzQ4MzA5LTg4MGMxYzkxLThkODctNDM0OS1hZmM0LWI2OWIyZDhkYWVhMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIxMVQwMDM2NTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kMTc5YTdkZDRhOTA4NzYxNzYxNDk0Nzc1NGYxNzcwZjAzZDZjYzgyNDEyODVkZTg1ZjMzOGRmZjljYWIyMzUzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.e7a2uvGY5ciLlXmMh2zdcL7xW9ULIX44YowDe9dNNok" width="80%"></img>
+       <p align="center"> <img src="https://e7.pngegg.com/pngimages/597/567/png-clipart-massachusetts-institute-of-technology-mit-license-technical-school-logo-university-massachusetts-angle-text.png" width="80%"></img>
     </td>
     <td> 
       <img src="https://img.shields.io/badge/License-MIT-yellow.svg"/> <br> 
