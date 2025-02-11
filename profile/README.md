@@ -81,7 +81,7 @@ We welcome contributors of all levels! Here's how you can help:
     </td>
     <td> 
       <img src="https://img.shields.io/badge/License-MIT-yellow.svg"/> <br> 
-HelpOps-Hub is licensed under the terms of the MIT License. check out <a href="./LICENSE">LICENSE</a> for details. <img width=2300/>
+SheBright is licensed under the terms of the MIT License. check out <a href="./LICENSE">LICENSE</a> for details. <img width=2300/>
     </td>
   </tr>
 </table>
