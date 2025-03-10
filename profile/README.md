@@ -1,3 +1,5 @@
+![Yellow Monochrome Photo LinkedIn Banner (1)](https://github.com/user-attachments/assets/62e34130-65d8-4329-80a4-3072c48dc6a0)
+
 # Welcome to SheBright 👋
 
 ## About Us
