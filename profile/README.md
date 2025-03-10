@@ -36,7 +36,7 @@ We welcome contributors of all levels! Here's how you can help:
       </a>
     </td>
     <td align="center">
-      <a href="https://helpopshub.vercel.app/">
+      <a href="#">
         <img src="logos/Vercel.png" alt="Vercel Logo" width="140">
       </a>
     </td>
